@@ -1,0 +1,108 @@
+{
+    "heroSection": 
+    {
+        "image": "/images/hero-section/zero-take-WvHrrR1C5Po-unsplash.jpg"
+    },
+
+    "welcomeSection":
+    {
+        "houseImage": "/images/activites-section/house.png",
+        "poolImage": "/images/activites-section/pool.png",
+        "house2Image": "/images/activites-section/house.png"
+    },
+
+    "roomsSection":
+    {
+        "standardRoom": 
+        {
+            "img": "/images/rooms/standard-room.jpg",
+            "price":"$ 130",
+            "bed": "Double Size Bed",
+            "capacity": "2 adults, 1 children",
+            "roomSize": "50 sqm",
+            "view": "garden view"
+        },
+
+        "luxaryRoom":
+        {
+         "img": "/images/rooms/luxary-room.jpg",
+         "price":"$ 280",
+         "bed": "Queen Size Bed",
+         "capacity": "4 adults, 1 children",
+         "roomSize": "65 sqm",
+         "view": "garden and beach view"
+        },
+
+        "ordinaryRoom": 
+        {
+            "img": "/images/rooms/ordinary-room.jpg",
+            "price":"$ 40",
+            "bed": "Single Size Bed",
+            "capacity": "1 adults, 1 children",
+            "roomSize": "30 sqm",
+            "view": "Not available"
+        }
+    },
+
+    "activitiesSection":
+    {
+        "swimmingPool": "/images/activites-section/pool.png",
+        "house":"/images/activites-section/house.png"
+    },
+
+    "experienceSection":
+    {
+        "massageImage": "/images/experience-section/massage.png",
+        "windowView": "/images/experience-section/window.png",
+        "soapsImage": "/images/experience-section/soap.png",
+        "wildImage": "/images/experience-section/adventure.png"
+    },
+    "helloSection":
+    {
+        "backgroundImage": "/images/hello-section/pool.jpg"
+    },
+
+    "ratingSection": {
+        "firstCustomer":
+        {
+            "customerImage":"/images/employee/jhonedoe.png",
+            "customerName": "Selena Mayer",
+            "dateOfReview": "2021-01-10",
+            "reviewHead": "Wondeerful new year trip",
+            "reviewDetails": "One of the best hotels I've ever stayed in. The staff are very friendly and helpful, they were so helpful it made me feel bad. Itincludes use of the Spa, wonderful, it has a..."
+        },
+
+        "secondCustomer": 
+        {
+            "customerImage":"/images/employee/muriel.png",
+            "customerName": "Esther Howard",
+            "dateOfReview": "2021-01-10",
+            "reviewHead": "Recommended",
+            "reviewDetails": "Great resort, professional staffs. It turns out that you're searching for paradise and you have it hear, nearby. Thanks for the warmth, you are fantastic."
+        },
+
+        "thirdCustomer":
+        {
+            
+            "customerImage":"/images/employee/norm.png",
+            "customerName": "Jane Cooper",
+            "dateOfReview": "2021-01-10",
+            "reviewHead": "All good",
+            "reviewDetails": "I love the Resort and its environment. Mikalto is incredibly dedicated, knowledgeable, and helpful. The finished product was beautiful every penny..."
+      
+        }
+       
+    },
+    
+    "joinUsSection": 
+    {
+        "bridgeImage": "/images/join-us/bridge.jpg",
+        "catImage": "/images/join-us/cat.jpg",
+        "forestImage": "/images/join-us/dog.jpg"
+    }
+
+
+    
+
+}
+
